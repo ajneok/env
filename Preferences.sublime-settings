@@ -1,0 +1,17 @@
+{
+	"caret_extra_bottom": 3,
+	"caret_extra_top": 3,
+	"caret_extra_width": 2,
+	"color_scheme": "Packages/Seti_UI/Scheme/Seti.tmTheme",
+	// "font_face": "Inconsolata-dz",
+	"font_size": 11,
+	"highlight_line": true,
+	"hot_exit": false,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"overlay_scroll_bars": "enabled",
+	"tab_size": 2,
+	"theme": "Seti.sublime-theme"
+}
