@@ -27,6 +27,8 @@ NeoBundle 'kchmck/vim-coffee-script'
 NeoBundle 'groenewege/vim-less'
 NeoBundle 'mxw/vim-jsx'
 NeoBundle 'chriskempson/tomorrow-theme', { 'rtp': 'vim/' }
+NeoBundle 'sheerun/vim-polyglot'
+
 call neobundle#end()
 
 " Required:
