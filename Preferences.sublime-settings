@@ -1,17 +1,36 @@
 {
-	"caret_extra_bottom": 3,
-	"caret_extra_top": 3,
+	"always_show_minimap_viewport": true,
+	"bold_folder_labels": true,
 	"caret_extra_width": 2,
-	"color_scheme": "Packages/Seti_UI/Scheme/Seti.tmTheme",
-	// "font_face": "Inconsolata-dz",
-	"font_size": 11,
-	"highlight_line": true,
+	"theme": "Material-Theme-Darker.sublime-theme",
+	"material_theme_accent_yellow": true , // set indigo accent color
+	"font_face": "Monaco",
+	"font_size": 13,
 	"hot_exit": false,
 	"ignored_packages":
 	[
 		"Vintage"
 	],
+	"indent_guide_options":
+	[
+		"draw_normal",
+		"draw_active"
+	],
+	"line_padding_bottom": 3,
+	"line_padding_top": 3,
 	"overlay_scroll_bars": "enabled",
+	"remember_open_files": false,
+	"rulers":
+	[
+		80,
+		120
+	],
+	"show_full_path": true,
 	"tab_size": 2,
-	"theme": "Seti.sublime-theme"
+	"color_scheme": "Packages/Material Theme/schemes/Material-Theme-Darker.tmTheme",
+	"overlay_scroll_bars"          : "enabled",
+	"line_padding_top"             : 2,
+	"line_padding_bottom"          : 3,
+	"always_show_minimap_viewport" : true,
+	"bold_folder_labels"           : true,
 }
