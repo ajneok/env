@@ -2,10 +2,9 @@
 	"always_show_minimap_viewport": true,
 	"bold_folder_labels": true,
 	"caret_extra_width": 2,
-	"theme": "Material-Theme-Darker.sublime-theme",
-	"material_theme_accent_yellow": true , // set indigo accent color
+	"color_scheme": "Packages/Material Theme/schemes/Material-Theme-Darker.tmTheme",
 	"font_face": "Monaco",
-	"font_size": 13,
+	"font_size": 12,
 	"hot_exit": false,
 	"ignored_packages":
 	[
@@ -17,7 +16,8 @@
 		"draw_active"
 	],
 	"line_padding_bottom": 3,
-	"line_padding_top": 3,
+	"line_padding_top": 2,
+	"material_theme_accent_yellow": true,
 	"overlay_scroll_bars": "enabled",
 	"remember_open_files": false,
 	"rulers":
@@ -27,10 +27,5 @@
 	],
 	"show_full_path": true,
 	"tab_size": 2,
-	"color_scheme": "Packages/Material Theme/schemes/Material-Theme-Darker.tmTheme",
-	"overlay_scroll_bars"          : "enabled",
-	"line_padding_top"             : 2,
-	"line_padding_bottom"          : 3,
-	"always_show_minimap_viewport" : true,
-	"bold_folder_labels"           : true,
+	"theme": "Material-Theme-Darker.sublime-theme"
 }
